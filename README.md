@@ -3,6 +3,7 @@
 ##### This project analyzes YouTube channel and video performance data using SQL (BigQuery) to generate actionable insights about video performance, engagement trends, and channel growth.
 ##### The objective was to explore, clean, and analyze raw YouTube data to uncover meaningful business insights.
 
+
 #### -> Objective:
 
 ##### Identify top-performing videos
@@ -12,11 +13,13 @@
 ##### Perform data quality checks (QC)
 ##### Build analytical queries for insights generation 
 
+
 #### -> Tools & Technologies Used:
 
 ##### Google BigQuery
 ##### SQL (Standard SQL)
 ##### Data Cleaning & QC Techniques
+
 
 #### -> Key Insights
 
